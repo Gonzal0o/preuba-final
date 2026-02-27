@@ -1,1 +1,2 @@
 print('hik')
+print('hi')
